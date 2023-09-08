@@ -1,5 +1,5 @@
 ## Olá !! Eu sou o Pablo Cavalcante
 
-- 👀 I’m interested in Back-end and Front-end
-- 📚 I’m currently learning Front-end
-- ✉️ Contact: pablocavalcantee@gmail.com
+- 👀 I’m interested in Web Development
+- 📚 HTML / CSS / JS / React / Bootstrap / jQuery / NodeJS
+- ✉️ Contact: pablocavalcantee@gmail.com | https://eopablo.github.io/Links/
